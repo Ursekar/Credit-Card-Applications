@@ -7,5 +7,5 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 3.) The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository  
 
 # Business Details & Technical Overview:
-The detailed aspect of this post from business perspective is mentioned in the medium blog post. See the link below:  
+The detailed aspect of this notebook from business perspective is mentioned in the medium blog post. See the link below:  
 https://bit.ly/2OB3A3L
